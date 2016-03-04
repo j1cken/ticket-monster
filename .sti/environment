@@ -1,0 +1,2 @@
+MAVEN_ARGS=clean package -Popenshift -Dcom.redhat.xpaas.repo.redhatga -DskipTests
+ARTIFACT_DIR=demo/target
